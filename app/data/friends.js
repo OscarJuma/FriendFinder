@@ -1,5 +1,5 @@
 var friends = [{
-	"name": "Roberta",
+	"name": "Robert",
 	"photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
 	"scores":[
 		5,
@@ -13,22 +13,10 @@ var friends = [{
 		5,
 		5
 	]
-}, {
-	"name": "Keith",
-	"photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-	"scores": [
-			3, 
-			3,
-			3, 
-			3, 
-			3, 
-			3, 
-			3, 
-			3, 
-			3, 
-			]
-}, {
-	"name": "Kwasi",
+}, 
+
+{
+	"name": "Beste",
 	"photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
 	"scores": [
 		1, 
