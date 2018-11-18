@@ -28,8 +28,8 @@ module.exports = function (app) {
 			var comparedFriend = friendData[i];
 			var totalDifference = 0;
 			
-			for(var k = 0; k < comparedFriend.scores.length; k++) {
-				var differenceOneScore = Math.abs(comparedFriend.scores[k] - newFriend.scores[k]);
+			for(var j = 0; j < comparedFriend.scores.length; j++) {
+				var differenceOneScore = Math.abs(comparedFriend.scores[j] - newFriend.scores[j]);
 				totalDifference += differenceOneScore;
 			}
 
